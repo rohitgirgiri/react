@@ -24,7 +24,7 @@ You should know and be comfortable with **all of the following:**
     -   CSS Grid
     -   Advanced CSS - CSS Units, Shadows, Gradients, Transitions, Animations, Specificity etc.
 
--   [**Basic Tailwind CSS**](https://www.youtube.com/watch?v=X7XbjwD6fVY&list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2)
+-   [**Basic Tailwind CSS**]
 
     -   Tailwind Utilities
     -   Responsive Variants
@@ -37,28 +37,28 @@ You should know and be comfortable with **all of the following:**
 
 -   **Document Object Model (DOM)**
 
-    -   [DOM Basics - Basics, Method, Document, Elements, Forms, CSS, Events, Navigation, Nodes and Collections](https://www.youtube.com/watch?v=mPTkKnL2aNA&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy)
-    -   [DOM Advanced](https://www.youtube.com/watch?v=XY96d0vEdFk&list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_)
+    -   [DOM Basics - Basics, Method, Document, Elements, Forms, CSS, Events, Navigation, Nodes and Collections]
+    -   [DOM Advanced]
 
--   [**Basic JavaScript**](https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy)
+-   [**Basic JavaScript**]
 
     -   JS Basics - Statements, Expressions, Syntax, Variables, Operators, Data Types, Functions, Objects, Arrays, Events, Array and String Methods, Object Methods, Date, Conditionals, Error Handling, JavaScript OOP - classes and inheritance and Debugging
     -   JS Web APIs - Forms, History, Geolocation, Storage, Worker and Fetch API
     -   JS JSON
 
--   [**JavaScript Advanced**](https://www.youtube.com/watch?v=KuhLGuNxF8U&list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq)
+-   [**JavaScript Advanced**]
 
     -   Solid JS Concepts - Scope, Hosting, Execution Context, Closures, Prototype, Recursion, Primitive vs Reference Data Types, Currying, Intersection Observer, Memoization, Event Propagation, Debounce etc.
-    -   [Asynchronous JavaScript](https://www.youtube.com/watch?v=IUBd76UQb34) - Callbacks, Promises and async-await
+    -   [Asynchronous JavaScript]- Callbacks, Promises and async-await
 
--   [**Modern JavaScript**](https://www.youtube.com/watch?v=PWXkYBmlbB4&list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
+-   [**Modern JavaScript**]
 
     -   Different ES6+ JS Syntaxes and concepts eg. Arrow function, Truthy/Falsy values, Ternary Operator, Different Array methods like find, filter, map, reduce, slice, splice, push, pop, concat, different looping strategies, Spread & Rest Operator, Array and Object Destructuring, Imports/Exports syntax, Template Literals, Sorting etc.
 
--   [**Git/GitHub**](https://www.youtube.com/watch?v=PWXkYBmlbB4&list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
+-   [**Git/GitHub**]
 
-    -   [Basics of Git](https://www.youtube.com/watch?v=oe21Nlq8GS4)
-    -   [Important Git Commands](https://learnwithsumit.com/rnext/courses/rnext/git-github-refresher)
+    -   [Basics of Git]
+    -   [Important Git Commands]
 
 </details>
 
@@ -121,11 +121,11 @@ You should know and be comfortable with **all of the following:**
 <details>
 <summary>3. Advanced State Management</summary>
 
--   [Using Redux / Toolkit](https://learnwithsumit.com/think-in-a-redux-way)
--   [Using Zustand](https://github.com/pmndrs/zustand)
--   [Using Jotai](https://jotai.org/)
--   [Using Recoil](https://recoiljs.org/)
--   [Using MobX](https://mobx.js.org/README.html)
+-   [Using Redux / Toolkit]
+-   [Using Zustand]
+-   [Using Jotai]
+-   [Using Recoil]
+-   [Using MobX]
 
 </details>
 
@@ -136,7 +136,7 @@ You should know and be comfortable with **all of the following:**
 -   [**CSS Modules**](https://www.makeuseof.com/react-components-css-modules-style/)
 -   [**Styled Components**](https://styled-components.com/)
 -   React UI Component Library - [Shadcn](https://ui.shadcn.com/)
--   [React UI Component Library - Keep React](https://youtu.be/mVXNUMBtGEA)
+-   [React UI Component Library - Keep React]
 -   [**Material UI**](https://mui.com/)
 -   [**Chakra UI**](https://chakra-ui.com/)
 -   [**Ant Design**](https://ant.design/docs/react/introduce)
@@ -146,7 +146,7 @@ You should know and be comfortable with **all of the following:**
 <details>
 <summary>5. React Ecosystem & Use Cases</summary>
 
--   [React Router DOM](https://youtu.be/34tjWL9wi4g)
+-   [React Router DOM]
 -   API Request with Axios in React
 -   React Suspense & Error Boundaries
 -   React Lazy Load
@@ -179,7 +179,7 @@ You should know and be comfortable with **all of the following:**
     -   [How to implement unit tests](https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/)
         -   [Using React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
         -   [Using Jest](https://jestjs.io/)
-    -   [How to implement e2e integration tests](https://youtu.be/6BkcHAEWeTU)
+    -   [How to implement e2e integration tests]
         -   [Using Cypress](https://www.cypress.io/)
         -   [Using Playwright](https://playwright.dev/)
 
@@ -226,12 +226,12 @@ You should have worked with **one of the following:**
 
 [Learn React by Scrimba](https://scrimba.com/learn/learnreact): Learn React by Scrimba
 
-[Full Modern React Tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d): Full Modern React Tutorial by Net Ninja
+[Full Modern React Tutorial by Net Ninja] Full Modern React Tutorial by Net Ninja
 
 
 [React.js on MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started): MDN Web Docs provides a step-by-step guide to getting started with React.js.
 
-[freeCodeCamp - React.js Full Course](https://www.youtube.com/watch?v=4UZrsTqkcW4): A full course on React.js by freeCodeCamp available on YouTube.
+[freeCodeCamp - React.js Full Course]: A full course on React.js by freeCodeCamp available on YouTube.
 
 [Scotch.io - Getting Started with React](https://scotch.io/starters/react/getting-started-with-react): A beginner-friendly tutorial on React on Scotch.io.
 
@@ -257,15 +257,6 @@ You should have worked with **one of the following:**
 [React Basics](https://www.coursera.org/learn/react-basics): React Basics by Meta.
 
 [Advanced React](https://scrimba.com/learn/react): Advanced React by Scrimba.
-
-## Some React Interview question resources 
-
-> Here are some resources that can help you land a job as a React developer.
-
-[React Interview Questions and Answers](https://www.dropbox.com/scl/fi/4rgu5tl0tj6tpcqwdsrah/react-interview-questions-and-answers.pdf?rlkey=6c1k3xtd1rg1d919i4hxac61f&dl=0): React Interview Questions and Answers by George Moller.
-
-[500 ReactJS Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions): 500 ReactJS Interview Questions & Answers.
-
 
 
 
